@@ -1,0 +1,505 @@
+Region,Country,Year,Nationality wise number of Foreign Tourists Arrivals (FTAs) in India (UOM:Number) |Scaling Factor:1,Nationality wise average duration of stay by Foreign Tourists Arrivals (FTAs) in India (UOM:Day) |Scaling Factor:1
+North America,Canada,"Calendar Year (Jan - Dec), 2023",385938.0,40.9
+North America,Others,"Calendar Year (Jan - Dec), 2023",4.0,9.3
+North America,United States Of America,"Calendar Year (Jan - Dec), 2023",1691498.0,31.0
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2023",27420.0,21.1
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2023",36158.0,22.0
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2023",20200.0,16.4
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2023",12241.0,17.8
+Western Europe,France,"Calendar Year (Jan - Dec), 2023",188981.0,21.0
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2023",223575.0,17.8
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2023",9206.0,14.5
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2023",39166.0,23.5
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2023",116031.0,20.8
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2023",82047.0,17.3
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2023",20057.0,22.2
+Western Europe,Others,"Calendar Year (Jan - Dec), 2023",14086.0,16.8
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2023",81916.0,35.0
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2023",73412.0,18.4
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2023",36007.0,24.3
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2023",41004.0,18.0
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2023",920591.0,24.0
+Eastern Europe,Czech,"Calendar Year (Jan - Dec), 2023",11656.0,17.5
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2023",8156.0,16.3
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2023",22342.0,14.8
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2023",98867.0,18.8
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2023",35457.0,13.5
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2023",164125.0,27.5
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2023",11502.0,30.0
+Africa,Egypt,"Calendar Year (Jan - Dec), 2023",15909.0,9.6
+Africa,Kenya,"Calendar Year (Jan - Dec), 2023",49574.0,25.3
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2023",40442.0,16.8
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2023",11466.0,49.8
+Africa,Others,"Calendar Year (Jan - Dec), 2023",129562.0,35.6
+Africa,South Africa,"Calendar Year (Jan - Dec), 2023",41969.0,19.4
+Africa,Sudan,"Calendar Year (Jan - Dec), 2023",14791.0,40.9
+Africa,Tanzania,"Calendar Year (Jan - Dec), 2023",26790.0,30.5
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2023",1204.0,37.1
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2023",2119826.0,15.4
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2023",35123.0,13.2
+South Asia,Iran,"Calendar Year (Jan - Dec), 2023",18733.0,24.2
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2023",83776.0,17.0
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2023",195445.0,25.7
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2023",28329.0,76.4
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2023",280327.0,12.9
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2023",32677.0,15.6
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2023",262458.0,11.9
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2023",51235.0,14.5
+South East Asia,Others,"Calendar Year (Jan - Dec), 2023",10680.0,21.6
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2023",50064.0,15.4
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2023",183772.0,12.6
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2023",116060.0,18.5
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2023",57284.0,10.6
+East Asia,China,"Calendar Year (Jan - Dec), 2023",30585.0,33.3
+East Asia,Japan,"Calendar Year (Jan - Dec), 2023",150521.0,20.8
+East Asia,Others,"Calendar Year (Jan - Dec), 2023",33091.0,20.4
+East Asia,Republic Of Korea,"Calendar Year (Jan - Dec), 2023",97726.0,28.9
+Australasia,Australia,"Calendar Year (Jan - Dec), 2023",456167.0,30.0
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2023",72458.0,34.7
+Australasia,Others,"Calendar Year (Jan - Dec), 2023",6158.0,33.9
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2023",11056.0,36.4
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2023",9985.0,20.4
+Middle East,Bahrain,"Calendar Year (Jan - Dec), 2023",13932.0,13.9
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2023",21977.0,21.0
+Middle East,Iraq,"Calendar Year (Jan - Dec), 2023",36012.0,20.1
+Middle East,Israel,"Calendar Year (Jan - Dec), 2023",44996.0,24.8
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2023",16095.0,16.2
+Middle East,Oman,"Calendar Year (Jan - Dec), 2023",71980.0,12.0
+Middle East,Others,"Calendar Year (Jan - Dec), 2023",31181.0,14.0
+Central and South America,Others,"Calendar Year (Jan - Dec), 2023",34272.0,24.0
+Middle East,Saudi Arabia,"Calendar Year (Jan - Dec), 2023",39127.0,12.7
+Middle East,Turkey,"Calendar Year (Jan - Dec), 2023",33590.0,8.9
+Middle East,United Arab Emirates,"Calendar Year (Jan - Dec), 2023",59480.0,10.1
+Middle East,Yemen,"Calendar Year (Jan - Dec), 2023",21400.0,67.4
+North America,Canada,"Calendar Year (Jan - Dec), 2022",289259.0,44.84
+North America,Others,"Calendar Year (Jan - Dec), 2022",1.0,26.0
+North America,United States Of America,"Calendar Year (Jan - Dec), 2022",1403399.0,34.33
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2022",18375.0,23.99
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2022",24172.0,25.3
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2022",12331.0,19.36
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2022",8781.0,20.44
+Western Europe,France,"Calendar Year (Jan - Dec), 2022",120282.0,25.74
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2022",141425.0,20.25
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2022",4988.0,17.08
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2022",30959.0,27.45
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2022",62226.0,27.65
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2022",55019.0,18.68
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2022",13449.0,26.95
+Western Europe,Others,"Calendar Year (Jan - Dec), 2022",10345.0,20.12
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2022",69522.0,38.86
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2022",39658.0,23.28
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2022",22372.0,28.76
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2022",25255.0,20.44
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2022",641051.0,28.4
+Eastern Europe,Czech,"Calendar Year (Jan - Dec), 2022",6287.0,20.53
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2022",4298.0,20.63
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2022",9546.0,18.94
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2022",44593.0,24.27
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2022",18025.0,16.06
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2022",97911.0,34.89
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2022",7304.0,43.14
+Africa,Egypt,"Calendar Year (Jan - Dec), 2022",9612.0,12.57
+Africa,Kenya,"Calendar Year (Jan - Dec), 2022",35743.0,28.75
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2022",24743.0,19.28
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2022",10072.0,49.17
+Africa,Others,"Calendar Year (Jan - Dec), 2022",84942.0,38.43
+Africa,South Africa,"Calendar Year (Jan - Dec), 2022",25860.0,24.74
+Africa,Sudan,"Calendar Year (Jan - Dec), 2022",24930.0,27.02
+Africa,Tanzania,"Calendar Year (Jan - Dec), 2022",18581.0,31.86
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2022",1617.0,62.9
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2022",1277557.0,18.62
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2022",20772.0,19.14
+South Asia,Iran,"Calendar Year (Jan - Dec), 2022",13064.0,32.39
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2022",71707.0,17.69
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2022",138203.0,26.93
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2022",16637.0,63.68
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2022",183459.0,14.83
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2022",13961.0,24.65
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2022",126192.0,15.31
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2022",15963.0,31.89
+South East Asia,Others,"Calendar Year (Jan - Dec), 2022",4018.0,34.85
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2022",28379.0,18.87
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2022",132668.0,15.53
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2022",54367.0,26.47
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2022",37232.0,10.06
+East Asia,China,"Calendar Year (Jan - Dec), 2022",11762.0,64.5
+East Asia,Japan,"Calendar Year (Jan - Dec), 2022",64196.0,32.84
+East Asia,Others,"Calendar Year (Jan - Dec), 2022",11471.0,35.79
+East Asia,Republic Of Korea,"Calendar Year (Jan - Dec), 2022",49423.0,44.54
+Australasia,Australia,"Calendar Year (Jan - Dec), 2022",376898.0,34.67
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2022",54974.0,42.48
+Australasia,Others,"Calendar Year (Jan - Dec), 2022",3802.0,41.49
+West Asia,Bahrain,"Calendar Year (Jan - Dec), 2022",9959.0,19.56
+West Asia,Iraq,"Calendar Year (Jan - Dec), 2022",36277.0,21.76
+West Asia,Israel,"Calendar Year (Jan - Dec), 2022",36418.0,24.89
+West Asia,Oman,"Calendar Year (Jan - Dec), 2022",56474.0,13.41
+West Asia,Others,"Calendar Year (Jan - Dec), 2022",20985.0,17.55
+West Asia,Saudi Arabia,"Calendar Year (Jan - Dec), 2022",18513.0,16.36
+West Asia,Turkey,"Calendar Year (Jan - Dec), 2022",18996.0,11.15
+West Asia,United Arab Emirates,"Calendar Year (Jan - Dec), 2022",43702.0,12.2
+West Asia,Yemen,"Calendar Year (Jan - Dec), 2022",19022.0,68.0
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2022",7326.0,39.5
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2022",4720.0,26.34
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2022",12301.0,26.49
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2022",8915.0,19.25
+Central and South America,Others,"Calendar Year (Jan - Dec), 2022",20221.0,29.34
+North America,Canada,"Calendar Year (Jan - Dec), 2021",80437.0,52.32
+North America,Others,"Calendar Year (Jan - Dec), 2021",2.0,64.0
+North America,United States Of America,"Calendar Year (Jan - Dec), 2021",429860.0,32.48
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2021",4411.0,29.78
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2021",7382.0,31.32
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2021",2025.0,31.87
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2021",1329.0,32.8
+Western Europe,France,"Calendar Year (Jan - Dec), 2021",30374.0,29.88
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2021",33772.0,24.8
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2021",1144.0,20.53
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2021",7600.0,34.69
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2021",13659.0,39.36
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2021",15631.0,19.92
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2021",2790.0,32.65
+Western Europe,Others,"Calendar Year (Jan - Dec), 2021",1767.0,26.48
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2021",32064.0,38.58
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2021",6982.0,38.01
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2021",5579.0,37.45
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2021",4198.0,25.83
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2021",164143.0,30.44
+Eastern Europe,Czech,"Calendar Year (Jan - Dec), 2021",983.0,39.79
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2021",653.0,33.04
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2021",2378.0,16.2
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2021",13875.0,25.16
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2021",2461.0,24.03
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2021",17567.0,27.45
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2021",5197.0,21.58
+Africa,Egypt,"Calendar Year (Jan - Dec), 2021",1739.0,26.07
+Africa,Kenya,"Calendar Year (Jan - Dec), 2021",13373.0,33.92
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2021",2118.0,47.07
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2021",5516.0,53.53
+Africa,Others,"Calendar Year (Jan - Dec), 2021",29087.0,42.93
+Africa,South Africa,"Calendar Year (Jan - Dec), 2021",3820.0,38.83
+Africa,Sudan,"Calendar Year (Jan - Dec), 2021",6781.0,49.03
+Africa,Tanzania,"Calendar Year (Jan - Dec), 2021",6480.0,38.63
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2021",36451.0,22.92
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2021",240554.0,25.45
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2021",6081.0,31.77
+South Asia,Iran,"Calendar Year (Jan - Dec), 2021",2369.0,65.4
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2021",26571.0,22.23
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2021",52544.0,24.39
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2021",8163.0,62.21
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2021",25989.0,21.58
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2021",2105.0,31.23
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2021",6628.0,35.91
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2021",3013.0,60.72
+South East Asia,Others,"Calendar Year (Jan - Dec), 2021",622.0,102.51
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2021",6927.0,16.31
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2021",13407.0,31.61
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2021",4668.0,71.11
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2021",1104.0,22.89
+East Asia,China,"Calendar Year (Jan - Dec), 2021",3502.0,98.15
+East Asia,Japan,"Calendar Year (Jan - Dec), 2021",15358.0,53.79
+East Asia,Others,"Calendar Year (Jan - Dec), 2021",1572.0,134.01
+East Asia,Republic Of Korea,"Calendar Year (Jan - Dec), 2021",13330.0,68.03
+Australasia,Australia,"Calendar Year (Jan - Dec), 2021",33864.0,47.23
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2021",4497.0,60.16
+Australasia,Others,"Calendar Year (Jan - Dec), 2021",504.0,53.25
+West Asia,Bahrain,"Calendar Year (Jan - Dec), 2021",1727.0,46.46
+West Asia,Iraq,"Calendar Year (Jan - Dec), 2021",16213.0,26.22
+West Asia,Israel,"Calendar Year (Jan - Dec), 2021",4601.0,20.79
+West Asia,Oman,"Calendar Year (Jan - Dec), 2021",10174.0,19.21
+West Asia,Others,"Calendar Year (Jan - Dec), 2021",4499.0,27.15
+West Asia,Saudi Arabia,"Calendar Year (Jan - Dec), 2021",1088.0,48.57
+West Asia,Turkey,"Calendar Year (Jan - Dec), 2021",3710.0,17.32
+West Asia,United Arab Emirates,"Calendar Year (Jan - Dec), 2021",3927.0,19.47
+West Asia,Yemen,"Calendar Year (Jan - Dec), 2021",6235.0,72.61
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2021",7.0,4.0
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2021",530.0,56.39
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2021",2055.0,50.07
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2021",859.0,47.86
+Central and South America,Others,"Calendar Year (Jan - Dec), 2021",3354.0,46.57
+North America,Canada,"Calendar Year (Jan - Dec), 2020",122868.0,41.6
+North America,Others,"Calendar Year (Jan - Dec), 2020",,
+North America,United States Of America,"Calendar Year (Jan - Dec), 2020",394092.0,32.5
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2020",9182.0,21.0
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2020",11022.0,24.4
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2020",8252.0,18.4
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2020",4310.0,19.4
+Western Europe,France,"Calendar Year (Jan - Dec), 2020",74243.0,21.9
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2020",72558.0,18.3
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2020",2854.0,17.0
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2020",9708.0,23.5
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2020",31186.0,23.3
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2020",26258.0,15.7
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2020",6224.0,20.5
+Western Europe,Others,"Calendar Year (Jan - Dec), 2020",4937.0,23.5
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2020",31005.0,47.9
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2020",16335.0,26.0
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2020",11992.0,23.5
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2020",12675.0,18.7
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2020",291874.0,26.0
+Eastern Europe,Czech Republic,"Calendar Year (Jan - Dec), 2020",3607.0,20.4
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2020",2964.0,18.5
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2020",5918.0,16.4
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2020",30710.0,14.2
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2020",12161.0,15.1
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2020",102166.0,16.4
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2020",10619.0,23.9
+Africa,Egypt,"Calendar Year (Jan - Dec), 2020",4886.0,13.4
+Africa,Kenya,"Calendar Year (Jan - Dec), 2020",12779.0,27.7
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2020",11410.0,18.1
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2020",3819.0,49.7
+Africa,Others,"Calendar Year (Jan - Dec), 2020",29226.0,26.4
+Africa,South Africa,"Calendar Year (Jan - Dec), 2020",12561.0,22.3
+Africa,Sudan,"Calendar Year (Jan - Dec), 2020",9114.0,36.5
+Africa,Tanzania,"Calendar Year (Jan - Dec), 2020",6501.0,28.6
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2020",47561.0,27.4
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2020",549273.0,17.8
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2020",7901.0,14.0
+South Asia,Iran,"Calendar Year (Jan - Dec), 2020",7090.0,28.1
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2020",14536.0,21.6
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2020",40822.0,19.8
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2020",14232.0,63.8
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2020",68646.0,15.0
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2020",11795.0,32.9
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2020",69897.0,12.4
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2020",35291.0,9.9
+South East Asia,Others,"Calendar Year (Jan - Dec), 2020",3386.0,13.2
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2020",16052.0,24.1
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2020",33747.0,13.7
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2020",52626.0,13.7
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2020",8828.0,14.1
+East Asia,China,"Calendar Year (Jan - Dec), 2020",39586.0,29.2
+East Asia,Japan,"Calendar Year (Jan - Dec), 2020",48191.0,25.4
+East Asia,Others,"Calendar Year (Jan - Dec), 2020",1335.0,22.3
+East Asia,Republic Of China Taiwan,"Calendar Year (Jan - Dec), 2020",8969.0,19.7
+East Asia,Republic Of Korea,"Calendar Year (Jan - Dec), 2020",32302.0,35.2
+Australasia,Australia,"Calendar Year (Jan - Dec), 2020",86758.0,29.4
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2020",16653.0,32.3
+Australasia,Others,"Calendar Year (Jan - Dec), 2020",1636.0,27.5
+West Asia,Bahrain,"Calendar Year (Jan - Dec), 2020",3429.0,17.2
+West Asia,Iraq,"Calendar Year (Jan - Dec), 2020",17823.0,22.0
+West Asia,Israel,"Calendar Year (Jan - Dec), 2020",17444.0,19.7
+West Asia,Oman,"Calendar Year (Jan - Dec), 2020",15430.0,12.4
+West Asia,Others,"Calendar Year (Jan - Dec), 2020",8980.0,18.9
+West Asia,Saudi Arabia,"Calendar Year (Jan - Dec), 2020",10423.0,15.1
+West Asia,Turkey,"Calendar Year (Jan - Dec), 2020",10853.0,10.3
+West Asia,United Arab Emirates,"Calendar Year (Jan - Dec), 2020",7387.0,11.4
+West Asia,Yemen,"Calendar Year (Jan - Dec), 2020",5882.0,97.9
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2020",3018.0,30.3
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2020",4294.0,23.6
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2020",8092.0,23.8
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2020",4580.0,20.6
+Central and South America,Others,"Calendar Year (Jan - Dec), 2020",10002.0,21.4
+North America,Canada,"Calendar Year (Jan - Dec), 2019",,27.1
+North America,Others,"Calendar Year (Jan - Dec), 2019",,
+North America,United States Of America,"Calendar Year (Jan - Dec), 2019",,23.4
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2019",,16.8
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2019",,17.5
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2019",,13.8
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2019",,13.1
+Western Europe,France,"Calendar Year (Jan - Dec), 2019",,18.2
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2019",,14.2
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2019",,11.9
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2019",,18.6
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2019",,15.5
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2019",,14.4
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2019",,17.3
+Western Europe,Others,"Calendar Year (Jan - Dec), 2019",,14.0
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2019",,27.0
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2019",,15.7
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2019",,17.1
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2019",,15.2
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2019",,18.9
+Eastern Europe,Czech Republic,"Calendar Year (Jan - Dec), 2019",,15.5
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2019",,15.3
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2019",,14.4
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2019",,14.1
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2019",,13.6
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2019",,15.6
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2019",,18.2
+Africa,Egypt,"Calendar Year (Jan - Dec), 2019",,8.8
+Africa,Kenya,"Calendar Year (Jan - Dec), 2019",,20.1
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2019",,13.7
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2019",,29.2
+Africa,Others,"Calendar Year (Jan - Dec), 2019",,20.7
+Africa,South Africa,"Calendar Year (Jan - Dec), 2019",,15.8
+Africa,Sudan,"Calendar Year (Jan - Dec), 2019",,22.0
+Africa,United Republic Of Tanzan,"Calendar Year (Jan - Dec), 2019",,20.5
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2019",,22.2
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2019",,13.9
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2019",,16.0
+South Asia,Iran,"Calendar Year (Jan - Dec), 2019",,19.8
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2019",,13.9
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2019",,21.9
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2019",,29.9
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2019",,11.1
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2019",,16.2
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2019",,10.2
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2019",,10.4
+South East Asia,Others,"Calendar Year (Jan - Dec), 2019",,19.5
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2019",,12.2
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2019",,10.3
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2019",,14.4
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2019",,11.4
+East Asia,China,"Calendar Year (Jan - Dec), 2019",,16.2
+East Asia,Japan,"Calendar Year (Jan - Dec), 2019",,15.0
+East Asia,Others,"Calendar Year (Jan - Dec), 2019",,31.7
+East Asia,Republic Of Korea,"Calendar Year (Jan - Dec), 2019",,20.6
+East Asia,Taiwan,"Calendar Year (Jan - Dec), 2019",,12.1
+Australasia,Australia,"Calendar Year (Jan - Dec), 2019",,23.8
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2019",,25.7
+Australasia,Others,"Calendar Year (Jan - Dec), 2019",,29.1
+West Asia,Bahrain,"Calendar Year (Jan - Dec), 2019",,15.3
+West Asia,Iraq,"Calendar Year (Jan - Dec), 2019",,17.7
+West Asia,Israel,"Calendar Year (Jan - Dec), 2019",,21.0
+West Asia,Oman,"Calendar Year (Jan - Dec), 2019",,11.5
+West Asia,Others,"Calendar Year (Jan - Dec), 2019",,11.8
+West Asia,Saudi Arabia,"Calendar Year (Jan - Dec), 2019",,13.0
+West Asia,Turkey,"Calendar Year (Jan - Dec), 2019",,7.7
+West Asia,United Arab Emirates,"Calendar Year (Jan - Dec), 2019",,11.0
+West Asia,Yemen,"Calendar Year (Jan - Dec), 2019",,51.4
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2019",,24.4
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2019",,18.1
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2019",,17.9
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2019",,13.4
+Central and South America,Others,"Calendar Year (Jan - Dec), 2019",,19.0
+North America,Canada,"Calendar Year (Jan - Dec), 2018",,34.2
+North America,United States Of America,"Calendar Year (Jan - Dec), 2018",,29.2
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2018",,20.0
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2018",,20.4
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2018",,16.0
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2018",,17.0
+Western Europe,France,"Calendar Year (Jan - Dec), 2018",,21.3
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2018",,18.8
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2018",,17.2
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2018",,22.1
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2018",,19.1
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2018",,18.6
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2018",,19.4
+Western Europe,Others,"Calendar Year (Jan - Dec), 2018",,23.9
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2018",,32.0
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2018",,17.6
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2018",,19.1
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2018",,19.3
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2018",,22.5
+Eastern Europe,Czech,"Calendar Year (Jan - Dec), 2018",,17.3
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2018",,18.7
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2018",,19.0
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2018",,17.8
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2018",,16.4
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2018",,18.9
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2018",,24.6
+Africa,Egypt,"Calendar Year (Jan - Dec), 2018",,19.6
+Africa,Kenya,"Calendar Year (Jan - Dec), 2018",,27.1
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2018",,17.4
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2018",,42.0
+Africa,Others,"Calendar Year (Jan - Dec), 2018",,33.9
+Africa,South Africa,"Calendar Year (Jan - Dec), 2018",,18.4
+Africa,Sudan,"Calendar Year (Jan - Dec), 2018",,28.2
+Africa,Tanzania,"Calendar Year (Jan - Dec), 2018",,31.2
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2018",,26.3
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2018",,14.5
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2018",,21.3
+South Asia,Iran,"Calendar Year (Jan - Dec), 2018",,26.2
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2018",,17.1
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2018",,22.0
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2018",,30.9
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2018",,13.8
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2018",,19.1
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2018",,14.4
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2018",,12.7
+South East Asia,Others,"Calendar Year (Jan - Dec), 2018",,18.2
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2018",,19.8
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2018",,14.5
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2018",,17.5
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2018",,13.8
+East Asia,China,"Calendar Year (Jan - Dec), 2018",,19.1
+East Asia,Japan,"Calendar Year (Jan - Dec), 2018",,17.2
+East Asia,Others,"Calendar Year (Jan - Dec), 2018",,35.4
+East Asia,Republic Of China Taiwan,"Calendar Year (Jan - Dec), 2018",,13.7
+Australasia,Australia,"Calendar Year (Jan - Dec), 2018",,26.4
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2018",,29.4
+Australasia,Others,"Calendar Year (Jan - Dec), 2018",,27.9
+West Asia,Bahrain,"Calendar Year (Jan - Dec), 2018",,26.1
+West Asia,Iraq,"Calendar Year (Jan - Dec), 2018",,21.6
+West Asia,Israel,"Calendar Year (Jan - Dec), 2018",,24.7
+West Asia,Oman,"Calendar Year (Jan - Dec), 2018",,11.2
+West Asia,Others,"Calendar Year (Jan - Dec), 2018",,16.9
+West Asia,Saudi Arabia,"Calendar Year (Jan - Dec), 2018",,19.1
+West Asia,Turkey,"Calendar Year (Jan - Dec), 2018",,16.9
+West Asia,United Arab Emirates,"Calendar Year (Jan - Dec), 2018",,12.2
+West Asia,Yemen,"Calendar Year (Jan - Dec), 2018",,62.1
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2018",,24.0
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2018",,17.7
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2018",,21.3
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2018",,15.9
+Central and South America,Others,"Calendar Year (Jan - Dec), 2018",,22.6
+North America,Canada,"Calendar Year (Jan - Dec), 2017",,35.8
+North America,United States Of America,"Calendar Year (Jan - Dec), 2017",,29.7
+Western Europe,Austria,"Calendar Year (Jan - Dec), 2017",,20.8
+Western Europe,Belgium,"Calendar Year (Jan - Dec), 2017",,20.2
+Western Europe,Denmark,"Calendar Year (Jan - Dec), 2017",,15.7
+Western Europe,Finland,"Calendar Year (Jan - Dec), 2017",,16.1
+Western Europe,France,"Calendar Year (Jan - Dec), 2017",,21.9
+Western Europe,Germany,"Calendar Year (Jan - Dec), 2017",,18.7
+Western Europe,Greece,"Calendar Year (Jan - Dec), 2017",,16.0
+Western Europe,Ireland,"Calendar Year (Jan - Dec), 2017",,22.4
+Western Europe,Italy,"Calendar Year (Jan - Dec), 2017",,20.0
+Western Europe,Netherlands,"Calendar Year (Jan - Dec), 2017",,18.4
+Western Europe,Norway,"Calendar Year (Jan - Dec), 2017",,19.6
+Western Europe,Others,"Calendar Year (Jan - Dec), 2017",,25.0
+Western Europe,Portugal,"Calendar Year (Jan - Dec), 2017",,33.3
+Western Europe,Spain,"Calendar Year (Jan - Dec), 2017",,17.7
+Western Europe,Sweden,"Calendar Year (Jan - Dec), 2017",,20.0
+Western Europe,Switzerland,"Calendar Year (Jan - Dec), 2017",,19.3
+Western Europe,United Kingdom,"Calendar Year (Jan - Dec), 2017",,22.9
+Eastern Europe,Czech,"Calendar Year (Jan - Dec), 2017",,18.2
+Eastern Europe,Hungary,"Calendar Year (Jan - Dec), 2017",,18.6
+Eastern Europe,Kazakhstan,"Calendar Year (Jan - Dec), 2017",,17.7
+Eastern Europe,Others,"Calendar Year (Jan - Dec), 2017",,18.3
+Eastern Europe,Poland,"Calendar Year (Jan - Dec), 2017",,16.5
+Eastern Europe,Russian Federation,"Calendar Year (Jan - Dec), 2017",,18.2
+Eastern Europe,Ukraine,"Calendar Year (Jan - Dec), 2017",,25.6
+Africa,Egypt,"Calendar Year (Jan - Dec), 2017",,18.9
+Africa,Kenya,"Calendar Year (Jan - Dec), 2017",,27.4
+Africa,Mauritius,"Calendar Year (Jan - Dec), 2017",,17.6
+Africa,Nigeria,"Calendar Year (Jan - Dec), 2017",,44.4
+Africa,Others,"Calendar Year (Jan - Dec), 2017",,38.1
+Africa,South Africa,"Calendar Year (Jan - Dec), 2017",,19.0
+Africa,Sudan,"Calendar Year (Jan - Dec), 2017",,41.9
+Africa,Tanzania,"Calendar Year (Jan - Dec), 2017",,32.0
+South Asia,Afghanistan,"Calendar Year (Jan - Dec), 2017",,27.4
+South Asia,Bangladesh,"Calendar Year (Jan - Dec), 2017",,14.5
+South Asia,Bhutan,"Calendar Year (Jan - Dec), 2017",,21.6
+South Asia,Iran,"Calendar Year (Jan - Dec), 2017",,23.5
+South Asia,Maldives,"Calendar Year (Jan - Dec), 2017",,20.8
+South Asia,Nepal,"Calendar Year (Jan - Dec), 2017",,33.2
+South Asia,Pakistan,"Calendar Year (Jan - Dec), 2017",,28.4
+South Asia,Sri Lanka,"Calendar Year (Jan - Dec), 2017",,15.5
+South East Asia,Indonesia,"Calendar Year (Jan - Dec), 2017",,23.3
+South East Asia,Malaysia,"Calendar Year (Jan - Dec), 2017",,13.9
+South East Asia,Myanmar (Burma),"Calendar Year (Jan - Dec), 2017",,15.2
+South East Asia,Others,"Calendar Year (Jan - Dec), 2017",,22.7
+South East Asia,Phillippines,"Calendar Year (Jan - Dec), 2017",,18.4
+South East Asia,Singapore,"Calendar Year (Jan - Dec), 2017",,13.3
+South East Asia,Thailand,"Calendar Year (Jan - Dec), 2017",,20.5
+South East Asia,Vietnam,"Calendar Year (Jan - Dec), 2017",,16.0
+East Asia,China,"Calendar Year (Jan - Dec), 2017",,19.6
+East Asia,Japan,"Calendar Year (Jan - Dec), 2017",,17.4
+East Asia,Others,"Calendar Year (Jan - Dec), 2017",,33.3
+East Asia,Republic Of China Taiwan,"Calendar Year (Jan - Dec), 2017",,13.7
+Australasia,Australia,"Calendar Year (Jan - Dec), 2017",,27.5
+Australasia,New Zealand,"Calendar Year (Jan - Dec), 2017",,29.6
+Australasia,Others,"Calendar Year (Jan - Dec), 2017",,33.6
+West Asia,Bahrain,"Calendar Year (Jan - Dec), 2017",,24.0
+West Asia,Iraq,"Calendar Year (Jan - Dec), 2017",,24.1
+West Asia,Israel,"Calendar Year (Jan - Dec), 2017",,26.8
+West Asia,Oman,"Calendar Year (Jan - Dec), 2017",,10.9
+West Asia,Others,"Calendar Year (Jan - Dec), 2017",,14.3
+West Asia,Saudi Arabia,"Calendar Year (Jan - Dec), 2017",,17.1
+West Asia,Turkey,"Calendar Year (Jan - Dec), 2017",,13.0
+West Asia,United Arab Emirates,"Calendar Year (Jan - Dec), 2017",,11.7
+West Asia,Yemen,"Calendar Year (Jan - Dec), 2017",,65.6
+Not classified elsewhere,Not Classified Elsewhere,"Calendar Year (Jan - Dec), 2017",,34.8
+Central and South America,Argentina,"Calendar Year (Jan - Dec), 2017",,18.2
+Central and South America,Brazil,"Calendar Year (Jan - Dec), 2017",,21.7
+Central and South America,Mexico,"Calendar Year (Jan - Dec), 2017",,15.6
+Central and South America,Others,"Calendar Year (Jan - Dec), 2017",,23.3
