@@ -97,9 +97,6 @@ The dashboard provides:
 
 ## 📚 References
 - National Data & Analytics Platform (NDAP): [https://ndap.niti.gov.in](https://ndap.niti.gov.in)  
-- Microsoft Power BI Documentation  
-- Government of India Tourism Data  
-- Power BI Community Resources  
 
 ---
 
